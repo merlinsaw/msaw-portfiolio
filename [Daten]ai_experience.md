@@ -63,6 +63,11 @@
 ### Generative AI
 
 - Prompt Engineering
+   - System prompts
+   - Prompt engineering for specific tasks
+   - Structured data output prompts
+   - Agentic prompts
+
 - Large Language Models (LLMs)
    - Google Gemini (Google)
    - Meta LLaMA (Meta)
