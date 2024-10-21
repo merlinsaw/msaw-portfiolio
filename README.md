@@ -65,7 +65,6 @@ A collection of tools and technologies I have experience with
 ## AI Ethics and Governance
 
 - Fairness in AI
-- Explainable AI (XAI)
 - AI Bias Mitigation
 - DSGVO (German General Data Protection Regulation)
 
