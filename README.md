@@ -135,6 +135,7 @@ A collection of tools and technologies I have experience with
 - Ollama
 - Local AI Models
 - Replit
+- IDX Google Cloud
 
 ## Datasets
 
