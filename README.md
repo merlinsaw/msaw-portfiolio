@@ -10,14 +10,17 @@ a collection of tools and technologies I have experience with
 
 - General knowledge and application
 - Natural Language Processing (NLP)
+
    - Speech Recognition
 
 - Computer Vision
+
    - Object Detection
    - Facial Recognition
    - Image Segmentation
 
 - Robotics
+
    - Motion Planning
    - Perception
    - Control Systems
@@ -42,8 +45,8 @@ a collection of tools and technologies I have experience with
 
 ## Web Scraping
 
-- Beautiful Soup: A Python library for parsing HTML and XML documents, useful for extracting data from web pages.
-- Selenium: A tool for automating web browsers, allowing for interaction with web pages to scrape dynamic content.
+- **Beautiful Soup:** A Python library for parsing HTML and XML documents, useful for extracting data from web pages.
+- **Selenium:** A tool for automating web browsers, allowing for interaction with web pages to scrape dynamic content.
 
 ## Vector Databases and Embeddings
 
@@ -69,12 +72,14 @@ a collection of tools and technologies I have experience with
 ### Generative AI
 
 - Prompt Engineering
+
    - System prompts
    - Prompt engineering for specific tasks
    - Structured data output prompts
    - Agentic prompts
 
 - Large Language Models (LLMs)
+
    - Google Gemini (Google)
    - Meta LLaMA (Meta)
    - Anthropic Claude 3.5 Sonnet (Anthropic)
@@ -82,6 +87,7 @@ a collection of tools and technologies I have experience with
    - OpenAI GPT-4o (OpenAI)
 
 - Image Generation Models
+
    - Flux 1 (Black Forest Labs)
    - Stable Diffusion (Stability AI)
    - Gaussian Splatting
