@@ -1,1 +1,47 @@
+# This file lists the Python dependencies for projects.
+# Each package is listed with its name and can include a comment describing its purpose.
+
+# ollama: A package for advanced data analysis.
+ollama
+
+# requests: A simple, yet elegant HTTP library.
+requests
+
+# numpy: A fundamental package for scientific computing with Python.
+numpy
+
+# pandas: A powerful data analysis and manipulation library for Python.
+pandas
+
+# crewai: A package for collaborative AI development.
+crewai
+
+# langchain: A framework for developing applications powered by language models.
+langchain
+
+# openai: A package for accessing OpenAI's API.
+openai
+
+# google-cloud: A package for Google Cloud services.
+google-cloud
+
+# docker: A package for interacting with Docker containers.
+docker
+
+# pymongo: A Python driver for MongoDB.
+pymongo
+
+# mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+mongoose
+
+# beautifulsoup4: A Python library for parsing HTML and XML documents.
+beautifulsoup4
+
+# flask: A micro web framework for Python.
+flask
+
+# conda: A package manager for Python and other languages.
+conda
+
+
 
