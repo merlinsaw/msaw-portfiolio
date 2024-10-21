@@ -118,6 +118,8 @@ A collection of tools and technologies I have experience with
 ### AI Developer Tools
 
 - **GitHub Copilot:** Auto-generates and completes code snippets using OpenAI Codex.
+- **Continue:** Continue is a open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
+- **CLINE:** Cline can handle complex software development tasks step-by-step.
 - **Codeium:** AI-powered code completion and generation tool.
 - **Codium:** A powerful AI-driven code editor that offers smart code completions, real-time collaboration, and integrated debugging tools to streamline the development process.
 - **Pythagora:** AI-assisted software testing and quality assurance platform.
