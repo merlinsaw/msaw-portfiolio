@@ -31,6 +31,7 @@ A collection of tools and technologies I have experience with
 
 - Python
 - C#
+- JavaScript
 
 ### Frameworks and Libraries
 
