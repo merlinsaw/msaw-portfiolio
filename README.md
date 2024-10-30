@@ -79,6 +79,7 @@ A collection of tools and technologies I have experience with
    - Prompt engineering for specific tasks
    - Structured data output prompts
    - Agentic prompts
+   - Chain of Thought / Prompt Chaining
 
 - Large Language Models (LLMs)
 
