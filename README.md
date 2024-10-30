@@ -67,6 +67,7 @@ A collection of tools and technologies I have experience with
 - Fairness in AI
 - AI Bias Mitigation
 - DSGVO (German General Data Protection Regulation)
+- EU Regulations
 
 ## Specialized AI Areas
 
