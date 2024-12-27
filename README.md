@@ -80,6 +80,13 @@ A collection of tools and technologies I have experience with
    - Structured data output prompts
    - Agentic prompts
    - Chain of Thought / Prompt Chaining
+   - Meta Prompts
+   - Expansion Prompts
+   - Compression Prompts
+   - Conversion Prompts
+   - Seeker Prompts
+   - Action Prompts
+   - Reasoning Prompts
 
 - Large Language Models (LLMs)
 
@@ -113,7 +120,7 @@ A collection of tools and technologies I have experience with
 - Function definition and JSON schema creation
 - Autonomous decision-making for tool selection
 - Integration with external APIs and systems
-- Use cases: conversational agents, data extraction, API interaction, knowledge retrieval
+- Use cases: conversational agents, data extraction, API interaction, knowledge retrieval, Computer use
 
 ## Tools and Platforms
 
@@ -130,6 +137,7 @@ A collection of tools and technologies I have experience with
 - **Cursor:** AI code editor for enhanced coding efficiency.
 - **Replit:** AI-powered development environment for building and sharing applications.
 - **V0:** AI-powered code editor for building and sharing applications.
+- **Devin** AI-powered Coding Agent Framework
 
 ### Other Tools
 
@@ -140,6 +148,9 @@ A collection of tools and technologies I have experience with
 - Local AI Models
 - Replit
 - IDX Google Cloud
+- AnythingLLM
+- LM Studio
+- ComfyUI
 
 ## Datasets
 
