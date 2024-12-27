@@ -81,12 +81,12 @@ A collection of tools and technologies I have experience with
    - Agentic prompts
    - Chain of Thought / Prompt Chaining
    - Meta Prompts
-   - Expansion Prompts
-   - Compression Prompts
-   - Conversion Prompts
-   - Seeker Prompts
-   - Action Prompts
-   - Reasoning Prompts
+   - Expansion Prompts (generate content, explanations, ideas)
+   - Compression Prompts (distill and summarize information)
+   - Conversion Prompts (trasnforms between formats)
+   - Seeker Prompts (finds and retreeves specific information)
+   - Action Prompts (execute commands and workflows)
+   - Reasoning Prompts (provides judgment, conclusion, insights)
 
 - Large Language Models (LLMs)
 
