@@ -92,9 +92,10 @@ A collection of tools and technologies I have experience with
 
    - Google Gemini (Google)
    - Meta LLaMA (Meta)
-   - Anthropic Claude 3.5 Sonnet (Anthropic)
+   - Anthropic Claude Sonnet (Anthropic)
    - Mistral (Mistral AI)
-   - OpenAI GPT-4o (OpenAI)
+   - OpenAI GPT-XX (OpenAI)
+   - Deepseek R1 (Deepseek)
 
 - Image Generation Models
 
@@ -129,6 +130,7 @@ A collection of tools and technologies I have experience with
 - **GitHub Copilot:** Auto-generates and completes code snippets using OpenAI Codex.
 - **Continue:** Continue is a open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
 - **CLINE:** Cline can handle complex software development tasks step-by-step.
+- **Roo Code (CLINE):** Agentic setup for coding agents.
 - **Codeium:** AI-powered code completion and generation tool.
 - **Codium:** A powerful AI-driven code editor that offers smart code completions, real-time collaboration, and integrated debugging tools to streamline the development process.
 - **Pythagora:** AI-assisted software testing and quality assurance platform.
