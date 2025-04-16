@@ -164,6 +164,7 @@ A collection of tools and technologies I have experience with
 - Critical Thinking
 - Collaboration
 - Communication of Technical Concepts
+- UX Writing
 
 ## Models for Embeddings
 
