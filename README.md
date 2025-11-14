@@ -88,7 +88,7 @@ A collection of tools and technologies I have experience with
    - Action Prompts (execute commands and workflows)
    - Reasoning Prompts (provides judgment, conclusion, insights)
 
-- Large Language Models (LLMs)
+- Large Language Models (LLMs) [every 3 month there will be a new top release]
 
    - Google Gemini (Google)
    - Meta LLaMA (Meta)
@@ -96,6 +96,9 @@ A collection of tools and technologies I have experience with
    - Mistral (Mistral AI)
    - OpenAI GPT-XX (OpenAI)
    - Deepseek R1 (Deepseek)
+ 
+   - Kimmi K2 Thinking
+   - 
 
 - Image Generation Models
 
@@ -131,6 +134,7 @@ A collection of tools and technologies I have experience with
 - **Continue:** Continue is a open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
 - **CLINE:** Cline can handle complex software development tasks step-by-step.
 - **Roo Code (CLINE):** Agentic setup for coding agents.
+- **Augment** VS extention with exeptional context engine.
 - **Codeium:** AI-powered code completion and generation tool.
 - **Codium:** A powerful AI-driven code editor that offers smart code completions, real-time collaboration, and integrated debugging tools to streamline the development process.
 - **Pythagora:** AI-assisted software testing and quality assurance platform.
@@ -139,7 +143,13 @@ A collection of tools and technologies I have experience with
 - **Cursor:** AI code editor for enhanced coding efficiency.
 - **Replit:** AI-powered development environment for building and sharing applications.
 - **V0:** AI-powered code editor for building and sharing applications.
+- **Windsurf** AI code editor bought by Devin
 - **Devin** AI-powered Coding Agent Framework
+- **Windsurf 2025** AI code editor bought by Devin 2025
+- **Codex** Open AI plattforn
+- **aistudio.google** Vibe Coding by Google
+- **Lovable** 
+- **V0**
 
 ### Other Tools
 
@@ -157,6 +167,7 @@ A collection of tools and technologies I have experience with
 ## Datasets
 
 - General experience creating and using datasets for fine-tuning
+- JSONL format
 
 ## Soft Skills
 
@@ -168,8 +179,9 @@ A collection of tools and technologies I have experience with
 
 ## Models for Embeddings
 
-- text embedding-large (OpenAI)
-- text embedding-small (OpenAI)
+- text **embedding-large** (OpenAI)
+- text **embedding-small** (OpenAI)
+- **hugging face** ebmedding modles
 
 ## Whisper AI
 
