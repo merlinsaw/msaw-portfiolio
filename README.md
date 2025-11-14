@@ -187,3 +187,5 @@ A collection of tools and technologies I have experience with
 ## Whisper AI
 
 - Whisper AI: A tool for automatic speech recognition and transcription.
+- Whisper CPP: Audio transcriptions
+
